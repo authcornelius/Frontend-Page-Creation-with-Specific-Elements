@@ -16,3 +16,11 @@ div, p{
     padding-bottom: 10px;
     font-weight: 600;
 }
+button{
+    padding: 15px 30px;
+    border-radius: 5%;
+    color: #fff;
+    background: #224922de;
+    border: none;
+    font-weight: 500;
+}
