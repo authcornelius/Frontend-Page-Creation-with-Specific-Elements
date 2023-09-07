@@ -14,7 +14,7 @@ img{
 }
 div, p{
     padding-bottom: 10px;
-    font-weight: 600;
+    font-weight: 700;
 }
 button{
     padding: 15px 30px;
@@ -22,5 +22,5 @@ button{
     color: #fff;
     background: #224922de;
     border: none;
-    font-weight: 500;
+    font-weight: 600;
 }
